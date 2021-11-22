@@ -1,0 +1,18 @@
+<html>
+ <head> 
+  <title> Exercise 1 - Hello World </title>
+ </head>
+ <script type="text/javascript" src="jquery-3.6.0.js"></script>
+
+ <script>
+  $(document).ready(function(){
+   $('#cl').click(function(){
+          alert("Hello World");
+          });
+          });
+   </script>
+   <body>
+     <br>
+       <button id="cl">Click Me</button>
+   </body>
+   </html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Exercise 2 - Selecting Element by ID using jQuery</title>
+</head>
+<body>
+    <p id="first_sentence" style="background-color: yellow">This is a sentence.</p>
+    <p style="background-color: green">This is another sentence.</p>
+    <p>This is one more sentence.</p>
+    <p><strong>Note:</strong> The value of the id attribute must be unique in an HTML document.</p>
+</body>
+</html>
